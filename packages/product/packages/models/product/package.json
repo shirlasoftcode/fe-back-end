@@ -1,0 +1,23 @@
+{
+  "name": "@models/product",
+  "version": "0.0.0",
+  "description": "product entinty modle",
+  "author": "ShirlaSoft DSI <yordicito2014@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/product.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc":"tsc"
+  }
+}

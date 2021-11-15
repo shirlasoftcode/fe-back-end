@@ -1,0 +1,30 @@
+{
+  "name": "@shirlasoft/models",
+  "version": "0.0.1",
+  "description": "Sql database models",
+  "author": "ShirlaSoft DSI <yordicito2014@gmail.com>",
+  "homepage": "https://github.com/shirlasoftcode/fe-back-end#readme",
+  "license": "ISC",
+  "main": "lib/models.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirlasoftcode/fe-back-end.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/shirlasoftcode/fe-back-end/issues"
+  }
+}

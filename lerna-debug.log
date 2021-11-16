@@ -1,12 +1,10 @@
 0 silly argv {
 0 silly argv   _: [ 'add' ],
-0 silly argv   globs: [ 'packages/user-service' ],
+0 silly argv   globs: [],
 0 silly argv   lernaVersion: '4.0.0',
 0 silly argv   '$0': 'C:\\Users\\ZYPSISTEMAS\\AppData\\Roaming\\npm\\node_modules\\lerna\\cli.js',
-0 silly argv   pkg: 'shirlasoft/models'
+0 silly argv   pkg: './shirlasoft/models'
 0 silly argv }
 1 notice cli v4.0.0
 2 verbose rootPath C:\PROYECTOS\SHIRLASOFT\WEB\facturacion-electronica\fe-back-end
-3 error Error: An unknown git error occurred
-3 error     at makeError (C:\Users\ZYPSISTEMAS\AppData\Roaming\npm\node_modules\lerna\node_modules\@npmcli\git\lib\make-error.js:28:13)
-3 error     at C:\Users\ZYPSISTEMAS\AppData\Roaming\npm\node_modules\lerna\node_modules\@npmcli\git\lib\spawn.js:36:26
+3 error
